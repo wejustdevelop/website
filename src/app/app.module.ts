@@ -1,5 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { FacebookModule } from 'ngx-facebook';
+import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/sections/header/header.component';
@@ -18,7 +20,9 @@ import { ContentComponent } from './core/sections/content/content.component';
     ContentComponent
   ],
   imports: [
-    BrowserModule
+    FormsModule,
+    BrowserModule,
+    FacebookModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
