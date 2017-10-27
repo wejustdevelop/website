@@ -10,5 +10,5 @@
 
  #### Name: [Michael Vinicio](https://github.com/vinird)
  - Place: Costa Rica
- - Bio: web developer and graphic designer.
+ - Bio: Web developer and graphic designer.
  - GitHub: [vinird](https://github.com/vinird)
