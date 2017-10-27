@@ -13,6 +13,7 @@ import { NavigationComponent } from './shared/sections/navigation/navigation.com
 import { SidebarComponent } from './shared/sections/sidebar/sidebar.component';
 import { FooterComponent } from './shared/sections/footer/footer.component';
 import { ContentComponent } from './core/sections/content/content.component';
+import { ContributorsComponent } from './core/sections/contributors/contributors.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ContentComponent } from './core/sections/content/content.component';
     HeaderComponent,
     NavigationComponent,
     SidebarComponent,
-    ContentComponent
+    ContentComponent,
+    ContributorsComponent
   ],
   imports: [
     FormsModule,
