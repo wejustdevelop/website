@@ -2,6 +2,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FacebookModule } from 'ngx-facebook';
 import { FormsModule } from '@angular/forms';
+// Import HttpClientModule from @angular/common/http
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/sections/header/header.component';
@@ -22,7 +24,8 @@ import { ContentComponent } from './core/sections/content/content.component';
   imports: [
     FormsModule,
     BrowserModule,
-    FacebookModule.forRoot()
+    FacebookModule.forRoot(),
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
