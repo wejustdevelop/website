@@ -1,3 +1,11 @@
-<p>
+<div class="sidebar">
   sidebar works!
-</p>
+  <h1 class="header"><i class="fa fa-github" aria-hidden="true"></i> wejustdevelop repositories</h1>
+  <div class="repositories">
+    <li *ngFor="let repo of repositories; let i = index">
+      <a href="{{ repo.html_url }}" target="_blank"><i class="fa fa-arrow-right" aria-hidden="true"></i> {{ repo.name }}</a>
+    </li>
+  </div>
+
+  <app-contributors></app-contributors>
+</div>
