@@ -1,6 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
+import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { NgModule } from '@angular/core';
 import { FacebookModule } from 'ngx-facebook';
+import { InfiniteScrollModule } from 'ngx-infinite-scroll';
 import { FormsModule } from '@angular/forms';
 // Import HttpClientModule from @angular/common/http
 import { HttpClientModule } from '@angular/common/http';
@@ -25,9 +27,12 @@ import { ContentComponent } from './core/sections/content/content.component';
     FormsModule,
     BrowserModule,
     FacebookModule.forRoot(),
+    InfiniteScrollModule,
     HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+platformBrowserDynamic().bootstrapModule(AppModule);
