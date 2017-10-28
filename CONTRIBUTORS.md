@@ -57,6 +57,11 @@
  - Place: Fort Collins, CO, USA
  - Bio: Web Developer
  - GitHub: [amberjohnsonsmile](https://github.com/amberjohnsonsmile)
+
+ #### Name: [Luan Carlos Araldi](https://github.com/LuanAraldi)
+ - Place: Florianópolis, SC, BR
+ - Bio: Web Developer
+ - GitHub: [LuanAraldi](https://github.com/LuanAraldi)
  
   #### Name: [Noemi Hernandez](https://github.com/lelyhn)
  - Place: Oxnard, CA, USA
