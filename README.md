@@ -1,5 +1,7 @@
 # Wejustdevelop
 
+Wejustdevelop is a platform to connect developers around the world. We guarantee we will always be a FREE service.
+
 Our website is opensource! Get involved and we will add your profile as a contributor. Be sure to like our page and/or create pull requests! https://www.facebook.com/wejustdevelop
 
 Have a suggestion? Just create a new issue.
