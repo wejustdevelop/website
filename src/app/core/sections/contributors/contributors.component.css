@@ -6,13 +6,29 @@
   }
 
   div.user {
-    width: 10%;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 5px;
+    display: inline-block;
   }
-  
+
   div.container {
     text-align: center;
     padding: 5px;
+  }
+  div.contributors {
+    max-width: 1200px;
+    margin: auto;
+  }
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    div.contributors .user {
+      width: 10%;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    /* For small device: */
+    div.contributors .user {
+      width: 20%
+    }
   }
