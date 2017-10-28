@@ -2,6 +2,10 @@
 
 Website: http://www.wejustdevelop.com
 
+Our website is opensource! Get involve and we will add your profile as contributors. Be sure to like our page and/or create pull requests!
+
+Want to suggest? Just create a new issue.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
 ## Development server
