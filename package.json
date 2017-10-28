@@ -30,6 +30,7 @@
     "ngx-facebook": "^2.4.0",
     "popper.js": "^1.12.5",
     "rxjs": "^5.4.2",
+    "waypoints": "^4.0.1",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
