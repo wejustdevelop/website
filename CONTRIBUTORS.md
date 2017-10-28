@@ -67,3 +67,8 @@
  - Place: Oxnard, CA, USA
  - Bio: Student Web Developer
  - GitHub: [lelyhn](https://github.com/lelyhn)
+
+#### Name: [Shivam Luthra](https://github.com/shivamluthra)
+ - Place: Katra, J&K, India
+ - Bio: Computer Science undergrad, Web Developer
+ - GitHub: [shivamluthra](https://github.com/shivamluthra)
