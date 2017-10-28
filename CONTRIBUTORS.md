@@ -57,3 +57,8 @@
  - Place: Fort Collins, CO, USA
  - Bio: Web Developer
  - GitHub: [amberjohnsonsmile](https://github.com/amberjohnsonsmile)
+ 
+  #### Name: [Noemi Hernandez](https://github.com/lelyhn)
+ - Place: Oxnard, CA, USA
+ - Bio: Student Web Developer
+ - GitHub: [lelyhn](https://github.com/lelyhn)
