@@ -22,3 +22,8 @@
  - Place: United Kingdom
  - Bio: 
  - GitHub: [TomEWilkinson](https://github.com/TomEWilkinson)
+ 
+  #### Name: [Richard Vergis](https://github.com/gahdada01)
+ - Place: Cebu, Philippines
+ - Bio: Full Stack Developer.
+ - GitHub: [Mr. R](https://github.com/gahdada01)
