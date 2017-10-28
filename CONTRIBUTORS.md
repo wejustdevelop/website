@@ -72,3 +72,9 @@
  - Place: St. Louis, MO
  - Bio: Web Developer for marketing firm
  - GitHub: [darzouras](https://github.com/darzouras)
+
+ #### Name: [Shivam Luthra](https://github.com/shivamluthra)
+ - Place: Katra, J&K, India
+ - Bio: Computer Science undergrad, Web Developer
+ - GitHub: [shivamluthra](https://github.com/shivamluthra)
+
