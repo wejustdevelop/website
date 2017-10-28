@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { NgFor } from '@angular/common';
+import {HttpClient} from '@angular/common/http';
 
 @Component({
   selector: 'app-sidebar',
@@ -7,9 +9,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SidebarComponent implements OnInit {
 
-  constructor() { }
+  private username: string;
+  private repositories: any;
+
+  constructor(private http: HttpClient  ) {
+    this.username = "wejustdevelop";
+   }
 
   ngOnInit() {
+    this.http.get('https://api.github.com/users/'+this.username+'/repos').subscribe(data => {
+      // Read the result field from the JSON response.
+      this.repositories = data;
+    });
   }
 
 }
