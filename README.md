@@ -11,8 +11,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Website
 Website: http://www.wejustdevelop.com
 
-# Facebook
-Facebook: https://www.facebook.com/wejustdevelop
+# Social Links
+1. Facebook: https://www.facebook.com/wejustdevelop
+2. Twitter: https://www.twitter.com/wejustdevelop
 
 ## Contributing in #Hacktoberfest
 
