@@ -27,6 +27,8 @@
  - Place: Philippines
  - Bio: Web developer.
  - GitHub: [Junmel](https://github.com/Junmel)
- 
- 
- 
+
+ #### Name: [Maurice Lacson](https://github.com/MauriceLacson)
+ - Place: Cebu, PH
+ - Bio: Web developer.
+ - GitHub: [MauriceLacson](https://github.com/MauriceLacson)
