@@ -22,3 +22,8 @@
  - Place: United Kingdom
  - Bio: 
  - GitHub: [TomEWilkinson](https://github.com/TomEWilkinson)
+
+#### Name: [Jonathan Villarta](https://github.com/vinird)
+ - Place: Philippines
+ - Bio: Web developer
+ - GitHub: [Jonathan Villarta](https://github.com/villartadh)
