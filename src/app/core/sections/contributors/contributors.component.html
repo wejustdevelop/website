@@ -1,0 +1,11 @@
+<h1 class="header"><i class="fa fa-github" aria-hidden="true"></i> Contributors </h1>
+<div class="contributors">
+
+    <div class="user" *ngFor="let user of contributors; let i = index">
+      <img [src]="user.avatar_url">
+      <div class="container">
+        <a [href]="user.html_url" target="_blank">{{user.login}}</a>
+      </div>
+    </div>
+
+</div>
