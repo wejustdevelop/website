@@ -48,3 +48,27 @@
  - Bio: Developing developers, paying it forward.
  - GitHub: [nunezber31](https://github.com/nunezber31)
  
+ #### Name: [Randy D. Binondo](https://github.com/binondord)
+ - Place: Philippines
+ - Bio: Coder. Trader. Handyman.
+ - GitHub: [binondord](https://github.com/binoondord)
+
+ #### Name: [Amber Johnson](https://github.com/amberjohnsonsmile)
+ - Place: Fort Collins, CO, USA
+ - Bio: Web Developer
+ - GitHub: [amberjohnsonsmile](https://github.com/amberjohnsonsmile)
+
+ #### Name: [Luan Carlos Araldi](https://github.com/LuanAraldi)
+ - Place: Florianópolis, SC, BR
+ - Bio: Web Developer
+ - GitHub: [LuanAraldi](https://github.com/LuanAraldi)
+ 
+  #### Name: [Noemi Hernandez](https://github.com/lelyhn)
+ - Place: Oxnard, CA, USA
+ - Bio: Student Web Developer
+ - GitHub: [lelyhn](https://github.com/lelyhn)
+
+#### Name: [Shivam Luthra](https://github.com/shivamluthra)
+ - Place: Katra, J&K, India
+ - Bio: Computer Science undergrad, Web Developer
+ - GitHub: [shivamluthra](https://github.com/shivamluthra)
