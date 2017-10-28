@@ -42,8 +42,3 @@
  - Place: Cebu, PH
  - Bio: Web developer.
  - GitHub: [MauriceLacson](https://github.com/MauriceLacson)
-
-#### Name: [Nardo](https://github.com/nunezber31)
- - Place: Cebu, PH
- - Bio: Developing developers, paying it forward.
- - GitHub: [nunezber31](https://github.com/nunezber31)
