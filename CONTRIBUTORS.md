@@ -78,3 +78,7 @@
  - Bio: Computer Science undergrad, Web Developer
  - GitHub: [shivamluthra](https://github.com/shivamluthra)
 
+ #### Name: [Janice Medina](https://github.com/ConnectExtend)
+ - Place: Delavan, Wisconsin, USA
+ - Bio: CodeNewbie, Aspiring Web Developer
+ - GitHub: [ConnectExtend](https://github.com/ConnectExtend)
