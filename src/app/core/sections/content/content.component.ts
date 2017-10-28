@@ -11,6 +11,7 @@ export class ContentComponent implements OnInit {
 
   authResponse: AuthResponse;
   email:string;
+  result = '';
 
   // login with options
   options: LoginOptions = {
@@ -19,7 +20,9 @@ export class ContentComponent implements OnInit {
     enable_profile_selector: true
   };
 
-  constructor(private fb: FacebookService) { }
+  constructor(
+    private fb: FacebookService
+  ) { }
 
   ngOnInit() {
     let initParams: InitParams = {
@@ -31,7 +34,8 @@ export class ContentComponent implements OnInit {
     this.fb.init(initParams);
   }
 
-
+  getHomeTimeline(){
+  }
 
   login(){
     this.fb.login(this.options)
