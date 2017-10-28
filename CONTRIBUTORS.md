@@ -22,3 +22,8 @@
  - Place: United Kingdom
  - Bio: 
  - GitHub: [TomEWilkinson](https://github.com/TomEWilkinson)
+ 
+#### Name: [Nardo](https://github.com/nunezber31)
+ - Place: Cebu, PH
+ - Bio: Developing developers, paying it forward.
+ - GitHub: [nunezber31](https://github.com/nunezber31)
