@@ -32,4 +32,3 @@
  - Place: Cebu, PH
  - Bio: Web developer.
  - GitHub: [MauriceLacson](https://github.com/MauriceLacson)
-
