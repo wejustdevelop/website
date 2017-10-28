@@ -1,7 +1,11 @@
 import { BrowserModule } from '@angular/platform-browser';
+import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { NgModule } from '@angular/core';
 import { FacebookModule } from 'ngx-facebook';
+import { InfiniteScrollModule } from 'ngx-infinite-scroll';
 import { FormsModule } from '@angular/forms';
+// Import HttpClientModule from @angular/common/http
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/sections/header/header.component';
@@ -9,6 +13,7 @@ import { NavigationComponent } from './shared/sections/navigation/navigation.com
 import { SidebarComponent } from './shared/sections/sidebar/sidebar.component';
 import { FooterComponent } from './shared/sections/footer/footer.component';
 import { ContentComponent } from './core/sections/content/content.component';
+import { ContributorsComponent } from './core/sections/contributors/contributors.component';
 
 @NgModule({
   declarations: [
@@ -17,14 +22,19 @@ import { ContentComponent } from './core/sections/content/content.component';
     HeaderComponent,
     NavigationComponent,
     SidebarComponent,
-    ContentComponent
+    ContentComponent,
+    ContributorsComponent
   ],
   imports: [
     FormsModule,
     BrowserModule,
-    FacebookModule.forRoot()
+    FacebookModule.forRoot(),
+    InfiniteScrollModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+platformBrowserDynamic().bootstrapModule(AppModule);
