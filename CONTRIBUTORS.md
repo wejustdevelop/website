@@ -22,6 +22,11 @@
  - Place: United Kingdom
  - Bio: 
  - GitHub: [TomEWilkinson](https://github.com/TomEWilkinson)
+ 
+  #### Name: [Junmel Jayson](https://github.com/vinird)
+ - Place: Philippines
+ - Bio: Web developer.
+ - GitHub: [Junmel](https://github.com/Junmel)
 
  #### Name: [Maurice Lacson](https://github.com/MauriceLacson)
  - Place: Cebu, PH
