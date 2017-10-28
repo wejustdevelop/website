@@ -14,6 +14,7 @@ Website: http://www.wejustdevelop.com
 # Social Links
 1. Facebook: https://www.facebook.com/wejustdevelop
 2. Twitter: https://www.twitter.com/wejustdevelop
+3. Linkedin: https://www.linkedin.com/company/wejustdevelop
 
 ## Contributing in #Hacktoberfest
 
