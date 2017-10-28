@@ -1,8 +1,9 @@
 # Wejustdevelop
 
 Website: http://www.wejustdevelop.com
+Facebook: https://www.facebook.com/wejustdevelop
 
-Our website is opensource! Get involve and we will add your profile as contributors. Be sure to like our page and/or create pull requests!
+Our website is opensource! Get involve and we will add your profile as contributors. Be sure to like our page and/or create pull requests! https://www.facebook.com/wejustdevelop
 
 Want to suggest? Just create a new issue.
 
