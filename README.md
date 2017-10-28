@@ -1,8 +1,8 @@
 # Wejustdevelop
 
-Our website is opensource! Get involve and we will add your profile as contributors. Be sure to like our page and/or create pull requests! https://www.facebook.com/wejustdevelop
+Our website is opensource! Get involved and we will add your profile as a contributor. Be sure to like our page and/or create pull requests! https://www.facebook.com/wejustdevelop
 
-Want to suggest? Just create a new issue.
+Have a suggestion? Just create a new issue.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
