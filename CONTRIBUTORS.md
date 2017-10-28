@@ -27,3 +27,9 @@
  - Place: Cebu, Philippines
  - Bio: Full Stack Developer.
  - GitHub: [Mr. R](https://github.com/gahdada01)
+
+ #### Name: [Maurice Lacson](https://github.com/MauriceLacson)
+ - Place: Cebu, PH
+ - Bio: Web developer.
+ - GitHub: [MauriceLacson](https://github.com/MauriceLacson)
+
