@@ -49,6 +49,6 @@
  - GitHub: [nunezber31](https://github.com/nunezber31)
  
  #### Name: [Randy D. Binondo](https://github.com/binondord)
- - Place: Cebu, PH
+ - Place: Philippines
  - Bio: Coder. Trader. Handyman.
  - GitHub: [binondord](https://github.com/binoondord)
