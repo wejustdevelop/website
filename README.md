@@ -16,7 +16,7 @@ Facebook: https://www.facebook.com/wejustdevelop
 
 ## Contributing in #Hacktoberfest
 
-1. You may start by adding your profile in CONTRIBUTORS.md, 
+1. You may start by adding your profile in CONTRIBUTORS.md
 
 2. Solve some issue in https://github.com/wejustdevelop/website/issues
 
