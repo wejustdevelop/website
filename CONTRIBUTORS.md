@@ -22,3 +22,8 @@
  - Place: United Kingdom
  - Bio: 
  - GitHub: [TomEWilkinson](https://github.com/TomEWilkinson)
+
+ #### Name: [Maurice Lacson](https://github.com/MauriceLacson)
+ - Place: Cebu, PH
+ - Bio: Web developer.
+ - GitHub: [MauriceLacson](https://github.com/MauriceLacson)
