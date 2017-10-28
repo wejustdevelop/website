@@ -52,3 +52,8 @@
  - Place: Philippines
  - Bio: Coder. Trader. Handyman.
  - GitHub: [binondord](https://github.com/binoondord)
+
+ #### Name: [Amber Johnson](https://github.com/amberjohnsonsmile)
+ - Place: Fort Collins, CO, USA
+ - Bio: Web Developer
+ - GitHub: [amberjohnsonsmile](https://github.com/amberjohnsonsmile)
