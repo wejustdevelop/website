@@ -12,6 +12,21 @@ Website: http://www.wejustdevelop.com
 # Facebook
 Facebook: https://www.facebook.com/wejustdevelop
 
+## Contributing in #Hacktoberfest
+
+1. You may start by adding your profile in CONTRIBUTORS.md, 
+
+2. Solve some issue in https://github.com/wejustdevelop/website/issues
+
+3. Like our facebook page: https://www.facebook.com/wejustdevelop
+
+### Format
+
+#### Name: [WeJustDevelop](https://github.com/wejustdevelop)
+ - Place: Cebu, PH
+ - Bio: Developing developers, paying it forward.
+ - GitHub: [wejustdevelop](https://github.com/wejustdevelop)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
