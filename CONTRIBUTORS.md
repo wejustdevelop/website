@@ -48,3 +48,7 @@
  - Bio: Developing developers, paying it forward.
  - GitHub: [nunezber31](https://github.com/nunezber31)
  
+ #### Name: [Randy D. Binondo](https://github.com/binondord)
+ - Place: Philippines
+ - Bio: Coder. Trader. Handyman.
+ - GitHub: [binondord](https://github.com/binoondord)
