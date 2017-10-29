@@ -1,0 +1,4 @@
+<form action="" name="subscribe-form" class="subscription"  #formLogin="ngForm">
+	<input type="email" name="email" [ngClass]="{'isEmailValid': true}" (keyup)="validateEmail(loginUser)"  #loginUser="ngModel" [(ngModel)]="email" placeholder="Input your email">
+	<input type="submit" name="subcribe" value="subscribe" (submit)="subscribe()">
+</form>

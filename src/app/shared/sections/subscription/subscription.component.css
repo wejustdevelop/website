@@ -1,0 +1,23 @@
+.subscription{
+	width: 100%;
+	padding: 0 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 80px;
+}
+.subscription input{
+	display: inline-block;
+	width: 25%;
+	margin:0 25px;
+	border-radius:5px;
+	border:none;
+	height: 50px;
+	padding: 0 15px;
+}
+.subscription input[type="submit"]{
+	background-color: #42c5ea;
+	color: white;
+	text-transform: uppercase;
+	cursor: pointer;
+}

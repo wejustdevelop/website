@@ -14,6 +14,7 @@ import { SidebarComponent } from './shared/sections/sidebar/sidebar.component';
 import { FooterComponent } from './shared/sections/footer/footer.component';
 import { ContentComponent } from './core/sections/content/content.component';
 import { ContributorsComponent } from './core/sections/contributors/contributors.component';
+import { SubscriptionComponent } from './shared/sections/subscription/subscription.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { ContributorsComponent } from './core/sections/contributors/contributors
     NavigationComponent,
     SidebarComponent,
     ContentComponent,
-    ContributorsComponent
+    ContributorsComponent,
+    SubscriptionComponent
   ],
   imports: [
     FormsModule,
