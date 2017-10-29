@@ -82,3 +82,8 @@
  - Place: Delavan, Wisconsin, USA
  - Bio: CodeNewbie, Aspiring Web Developer
  - GitHub: [ConnectExtend](https://github.com/ConnectExtend)
+ 
+ #### Name: [Sumit Agarwal](https://github.com/sumiet)
+ - Place: Hyderabad, India
+ - Bio: Computer Science undergrad, Web Developer
+ - GitHub: [sumiet](https://github.com/sumiet)
