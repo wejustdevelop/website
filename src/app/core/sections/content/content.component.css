@@ -1,0 +1,9 @@
+.posts-holder {
+    margin-top: 10%;
+    max-height: 300px;
+    overflow: auto;    
+    overflow-x: hidden;
+    width: auto;
+  }
+
+  
