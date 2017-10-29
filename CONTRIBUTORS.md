@@ -83,6 +83,11 @@
  - Bio: CodeNewbie, Aspiring Web Developer
  - GitHub: [ConnectExtend](https://github.com/ConnectExtend)
  
+ #### Name: [Sumit Agarwal](https://github.com/sumiet)
+ - Place: Hyderabad, India
+ - Bio: Computer Science undergrad, Web Developer
+ - GitHub: [sumiet](https://github.com/sumiet)
+
  #### Name: [SAMEER SENGAR](https://github.com/sengarsameer)
  - Place: J&K, India
  - Bio: Computer Science undergrad at SMVD University.
