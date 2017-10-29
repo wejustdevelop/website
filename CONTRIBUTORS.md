@@ -92,3 +92,8 @@
  - Place: J&K, India
  - Bio: Computer Science undergrad at SMVD University.
  - GitHub: [sengarsameer](https://github.com/sengarsameer)
+ 
+ #### Name: [Kulan Sachinthana](https://github.com/KulanS)
+ - Place: Colombo, Sri Lanka
+ - Bio: Student, Computer Science
+ - GitHub: [KulanS](https://github.com/KulanS)
