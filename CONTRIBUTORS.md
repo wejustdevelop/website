@@ -87,3 +87,8 @@
  - Place: Hyderabad, India
  - Bio: Computer Science undergrad, Web Developer
  - GitHub: [sumiet](https://github.com/sumiet)
+
+ #### Name: [SAMEER SENGAR](https://github.com/sengarsameer)
+ - Place: J&K, India
+ - Bio: Computer Science undergrad at SMVD University.
+ - GitHub: [sengarsameer](https://github.com/sengarsameer)
