@@ -16,6 +16,8 @@ import { ContentComponent } from './core/sections/content/content.component';
 import { ContributorsComponent } from './core/sections/contributors/contributors.component';
 import {AppRoutingModule} from './app.routes';
 import {ContactUsModule} from './contact-us/contact-us.module';
+import {UnderDevComponent} from './under-dev.component';
+import {NetworkComponent} from './network.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,9 @@ import {ContactUsModule} from './contact-us/contact-us.module';
     NavigationComponent,
     SidebarComponent,
     ContentComponent,
-    ContributorsComponent
+    ContributorsComponent,
+    UnderDevComponent,
+    NetworkComponent
   ],
   imports: [
     FormsModule,
