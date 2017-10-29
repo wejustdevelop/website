@@ -1,4 +1,5 @@
 # Wejustdevelop
+![alt text](https://scontent.fbog3-1.fna.fbcdn.net/v/t1.0-9/22046867_1846674398683745_8614146196819971947_n.jpg?oh=2dfb0365683b010f2cc7bafb233efe3d&oe=5AAB16D9)
 
 Wejustdevelop is a platform to connect developers around the world. We guarantee we will always be a FREE service.
 
