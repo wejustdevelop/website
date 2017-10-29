@@ -10,24 +10,24 @@
 
 ### Name: [Kavita](https://github.com/kavitaast)
  - Place: India
- - Bio: 
+ - Bio:
  -GitHub: [kavita](https://github.com/kavitaast)
 
  #### Name: [Michael Vinicio](https://github.com/vinird)
  - Place: Costa Rica
  - Bio: Web developer and graphic designer.
  - GitHub: [vinird](https://github.com/vinird)
- 
+
  #### Name: [TomEWilkinson](https://github.com/TomEWilkinson)
  - Place: United Kingdom
- - Bio: 
+ - Bio:
  - GitHub: [TomEWilkinson](https://github.com/TomEWilkinson)
 
 #### Name: [Jonathan Villarta](https://github.com/vinird)
  - Place: Philippines
  - Bio: Web developer
  - GitHub: [Jonathan Villarta](https://github.com/villartadh)
- 
+
 #### Name: [Richard Vergis](https://github.com/gahdada01)
  - Place: Cebu, Philippines
  - Bio: Full Stack Developer.
@@ -42,12 +42,12 @@
  - Place: Cebu, PH
  - Bio: Web developer.
  - GitHub: [MauriceLacson](https://github.com/MauriceLacson)
- 
+
  #### Name: [Nardo](https://github.com/nunezber31)
  - Place: Cebu, PH
  - Bio: Developing developers, paying it forward.
  - GitHub: [nunezber31](https://github.com/nunezber31)
- 
+
  #### Name: [Randy D. Binondo](https://github.com/binondord)
  - Place: Philippines
  - Bio: Coder. Trader. Handyman.
@@ -62,13 +62,23 @@
  - Place: Florianópolis, SC, BR
  - Bio: Web Developer
  - GitHub: [LuanAraldi](https://github.com/LuanAraldi)
- 
-  #### Name: [Noemi Hernandez](https://github.com/lelyhn)
+
+ #### Name: [Noemi Hernandez](https://github.com/lelyhn)
  - Place: Oxnard, CA, USA
  - Bio: Student Web Developer
  - GitHub: [lelyhn](https://github.com/lelyhn)
 
-#### Name: [Shivam Luthra](https://github.com/shivamluthra)
+ ##### Name: [Darlene Zouras](https://github.com/darzouras)
+ - Place: St. Louis, MO
+ - Bio: Web Developer for marketing firm
+ - GitHub: [darzouras](https://github.com/darzouras)
+
+ #### Name: [Shivam Luthra](https://github.com/shivamluthra)
  - Place: Katra, J&K, India
  - Bio: Computer Science undergrad, Web Developer
  - GitHub: [shivamluthra](https://github.com/shivamluthra)
+
+ #### Name: [Janice Medina](https://github.com/ConnectExtend)
+ - Place: Delavan, Wisconsin, USA
+ - Bio: CodeNewbie, Aspiring Web Developer
+ - GitHub: [ConnectExtend](https://github.com/ConnectExtend)
