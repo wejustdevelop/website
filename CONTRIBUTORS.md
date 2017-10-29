@@ -82,3 +82,8 @@
  - Place: Delavan, Wisconsin, USA
  - Bio: CodeNewbie, Aspiring Web Developer
  - GitHub: [ConnectExtend](https://github.com/ConnectExtend)
+ 
+ #### Name: [SAMEER SENGAR](https://github.com/sengarsameer)
+ - Place: J&K, India
+ - Bio: Computer Science undergrad at SMVD University.
+ - GitHub: [sengarsameer](https://github.com/sengarsameer)
