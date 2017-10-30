@@ -82,3 +82,23 @@
  - Place: Delavan, Wisconsin, USA
  - Bio: CodeNewbie, Aspiring Web Developer
  - GitHub: [ConnectExtend](https://github.com/ConnectExtend)
+ 
+ #### Name: [Sumit Agarwal](https://github.com/sumiet)
+ - Place: Hyderabad, India
+ - Bio: Computer Science undergrad, Web Developer
+ - GitHub: [sumiet](https://github.com/sumiet)
+
+ #### Name: [SAMEER SENGAR](https://github.com/sengarsameer)
+ - Place: J&K, India
+ - Bio: Computer Science undergrad at SMVD University.
+ - GitHub: [sengarsameer](https://github.com/sengarsameer)
+ 
+ #### Name: [Kulan Sachinthana](https://github.com/KulanS)
+ - Place: Colombo, Sri Lanka
+ - Bio: Student, Computer Science
+ - GitHub: [KulanS](https://github.com/KulanS)
+
+ #### Name: [Tom Kennedy](https://github.com/tomkennedycode)
+ - Place: London, England
+ - Bio: Junior Web Developer
+ - GitHub: [tomkennedycode](https://github.com/tomkennedycode)
