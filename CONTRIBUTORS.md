@@ -102,3 +102,8 @@
  - Place: London, England
  - Bio: Junior Web Developer
  - GitHub: [tomkennedycode](https://github.com/tomkennedycode)
+ 
+  #### Name: [Pierre Cambrin](https://github.com/arda971)
+ - Place: Guadeloupe, France
+ - Bio: Web Developer
+ - GitHub: [arda971](https://github.com/arda971)
