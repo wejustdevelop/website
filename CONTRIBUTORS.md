@@ -92,3 +92,8 @@
  - Place: J&K, India
  - Bio: Computer Science undergrad at SMVD University.
  - GitHub: [sengarsameer](https://github.com/sengarsameer)
+ 
+ #### Name: [Tom Kennedy](https://github.com/tomkennedycode)
+ - Place: London, England
+ - Bio: Junior Web Developer
+ - GitHub: [tomkennedycode](https://github.com/tomkennedycode)
