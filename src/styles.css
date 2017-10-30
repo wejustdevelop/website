@@ -1,13 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 body {
+    padding-top: 100px; 
 	background: #333;
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
     font-weight: 300;
     color: #888;
     line-height: 28px;
     text-align: center;
-}
+    background: url('/assets/img/i.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
 
 strong { font-weight: 500; }
 

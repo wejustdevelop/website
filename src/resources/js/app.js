@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  $.backstretch("/assets/img/i.jpg");
+  // $.backstretch("/assets/img/i.jpg");
 
   $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {

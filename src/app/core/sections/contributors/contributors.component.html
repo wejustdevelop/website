@@ -1,9 +1,7 @@
-<h1 class="header">
-  <i class="fa fa-github" aria-hidden="true"></i> Contributors 
-</h1>
+<h1 class="header"><i class="fa fa-github" aria-hidden="true"></i> Contributors </h1>
 <div class="contributors">
     <div class="user rounded" *ngFor="let user of contributors; let i = index">
-      <img class="rounded-circle" [src]="user.avatar_url">
+      <img [src]="user.avatar_url">
       <div class="container">
         <a [href]="user.html_url" target="_blank">{{user.login}}</a>
       </div>

@@ -12,9 +12,9 @@ import { environment } from '../../../../environments/environment';
 export class ContentComponent implements OnInit {
 
   authResponse: AuthResponse;
-  email:string;
+  email: string;
   pagePosts: any = [];
-  nextPosts:string = `/1846586292025889/posts?fields=id,message,created_time,full_picture,link,permalink_url&limit=5&access_token=${environment.appId}|${environment.appSecret}`;
+  nextPosts: string = `/1846586292025889/posts?fields=id,message,created_time,full_picture,link,permalink_url&limit=5&access_token=${environment.appId}|${environment.appSecret}`;
 
   // login with options
   options: LoginOptions = {
@@ -27,7 +27,7 @@ export class ContentComponent implements OnInit {
 
   ngOnInit() {
 
-    let initParams: InitParams = {
+    const initParams: InitParams = {
       appId: `${environment.appId}`,
       xfbml: true,
       version: 'v2.8'
@@ -35,7 +35,6 @@ export class ContentComponent implements OnInit {
 
     this.fb.init(initParams);
 
-    
     this.getPost();
   }
 
@@ -43,40 +42,36 @@ export class ContentComponent implements OnInit {
     this.getPost();
   }
 
-
-  getPost(){
+  getPost() {
     this.fb.api(this.nextPosts)
     .then(res => {
       console.log(res);
       console.log(res.data.length);
 
-      if (res.paging.next && res.paging.next != this.nextPosts) {
+      if (res.paging.next && res.paging.next !== this.nextPosts) {
 
-        for (let i=0; i<res.data.length; i++) {
+        for (let i = 0; i < res.data.length; i++) {
           this.pagePosts.push(res.data[i]);
         }
-  
-  
         this.nextPosts = res.paging.next;
         console.log(this.nextPosts);
         console.log(this.pagePosts);
 
       }
-      
     })
     .catch( err => {
       console.log(err);
     });
   }
 
-  login(){
+  login() {
     this.fb.login(this.options)
     .then((response: LoginResponse) => {
       console.log('Logged in', response);
 
       this.fb.api('/me?fields=id,name,email')
       .then(res => {
-        console.log('res: ',res);
+        console.log('res: ', res);
         this.email = res.email;
       });
 
@@ -85,7 +80,7 @@ export class ContentComponent implements OnInit {
     .catch(e => console.error('Error logging in'));
   }
 
-  logout(){
+  logout() {
     this.fb.logout().then(() => console.log('Logged out!'));
   }
 }
