@@ -97,3 +97,8 @@
  - Place: Colombo, Sri Lanka
  - Bio: Student, Computer Science
  - GitHub: [KulanS](https://github.com/KulanS)
+
+ #### Name: [Tom Kennedy](https://github.com/tomkennedycode)
+ - Place: London, England
+ - Bio: Junior Web Developer
+ - GitHub: [tomkennedycode](https://github.com/tomkennedycode)
