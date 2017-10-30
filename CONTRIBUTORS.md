@@ -5,7 +5,7 @@
  - GitHub: [wejustdevelop](https://github.com/wejustdevelop)
 
 
-[![Naldo](https://github.com/dpitos.png?size=40 "Naldo")](https://github.com/dpritos)
+[![Naldo](https://github.com/dpritos.png?size=40 "Naldo")](https://github.com/dpritos)
  - Place: Cebu, PH
  - Bio: Developing developers, paying it forward.
  - GitHub: [dpritos](https://github.com/dpritos)
