@@ -29,7 +29,7 @@
  - GitHub: [TomEWilkinson](https://github.com/TomEWilkinson)
 
 
-[![Jonathan Villarta](https://github.com/vinird.png?size=40 "Jonathan Villarta")](https://github.com/vinird)
+[![Jonathan Villarta](https://github.com/villartadh.png?size=40 "Jonathan Villarta")](https://github.com/villartadh)
  - Place: Philippines
  - Bio: Web developer
  - GitHub: [Jonathan Villarta](https://github.com/villartadh)
@@ -39,7 +39,7 @@
  - Bio: Full Stack Developer.
  - GitHub: [Mr. R](https://github.com/gahdada01)
 
-[![Junmel Jayson](https://github.com/vinird.png?size=40 "Junmel Jayson")](https://github.com/vinird)
+[![Junmel Jayson](https://github.com/Junmel.png?size=40 "Junmel Jayson")](https://github.com/Junmel)
  - Place: Philippines
  - Bio: Web developer.
  - GitHub: [Junmel](https://github.com/Junmel)
@@ -89,7 +89,7 @@
  - Bio: CodeNewbie, Aspiring Web Developer
  - GitHub: [ConnectExtend](https://github.com/ConnectExtend)
 
- [![Sumit Agarwal](https://github.com/sumiet.png?size=40"Sumit Agarwal")](https://github.com/sumiet)
+ [![Sumit Agarwal](https://github.com/sumiet.png?size=40 "Sumit Agarwal")](https://github.com/sumiet)
  - Place: Hyderabad, India
  - Bio: Computer Science undergrad, Web Developer
  - GitHub: [sumiet](https://github.com/sumiet)
