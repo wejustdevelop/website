@@ -40,7 +40,7 @@
 
 #### Name: [Maurice Lacson](https://github.com/MauriceLacson)
  - Place: Cebu, PH
- - Bio: Web developer.
+ - Bio: Web Developer, Electronics/Semiconductor Technician
  - GitHub: [MauriceLacson](https://github.com/MauriceLacson)
 
  #### Name: [Nardo](https://github.com/nunezber31)
