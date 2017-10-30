@@ -5,7 +5,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     font-weight: 300;
-    color: #888;
+    color: #ffffff;
     line-height: 28px;
     text-align: center;
 }
@@ -13,7 +13,7 @@ body {
 strong { font-weight: 500; }
 
 a, a:hover, a:focus {
-	color: #42c5ea;
+	color: white;
 	text-decoration: none;
     -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
 }
