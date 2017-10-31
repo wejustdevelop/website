@@ -16,13 +16,13 @@
  - Bio:
  - GitHub: [kavita](https://github.com/kavitaast)
 
- 
+
  [![Michael Vinicio](https://github.com/vinird.png?size=40 "Michael Vinicio")](https://github.com/vinird)
  - Place: Costa Rica
  - Bio: Web developer and graphic designer.
  - GitHub: [vinird](https://github.com/vinird)
 
- 
+
  [![TomEWilkinson](https://github.com/TomEWilKinson.png?size=40 "TomEWilkinson")](https://github.com/TomEWilkinson)
  - Place: United Kingdom
  - Bio:
@@ -113,3 +113,8 @@
  - Place: Guadeloupe, France
  - Bio: Web Developer
  - GitHub: [arda971](https://github.com/arda971)
+
+ [![Fanny Chien](https://github.com/fc2.png?size=40 "Fanny Chien")](https://github.com/fc2)
+- Place: Recife, Brazil
+- Bio: Computer Science undergrad
+- GitHub: [fc2](https://github.com/fc2)

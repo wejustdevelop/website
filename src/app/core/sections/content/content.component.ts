@@ -12,9 +12,9 @@ import { environment } from '../../../../environments/environment';
 export class ContentComponent implements OnInit {
 
   authResponse: AuthResponse;
-  email: string;
+  email:string;
   pagePosts: any = [];
-  nextPosts: string = `/1846586292025889/posts?fields=id,message,created_time,full_picture,link,permalink_url&limit=5&access_token=${environment.appId}|${environment.appSecret}`;
+  nextPosts:string = `/1846586292025889/posts?fields=id,message,created_time,full_picture,link,permalink_url&limit=5&access_token=${environment.appId}|${environment.appSecret}`;
 
   // login with options
   options: LoginOptions = {
@@ -34,7 +34,6 @@ export class ContentComponent implements OnInit {
     };
 
     this.fb.init(initParams);
-
     this.getPost();
   }
 
@@ -42,7 +41,8 @@ export class ContentComponent implements OnInit {
     this.getPost();
   }
 
-  getPost() {
+
+  getPost(){
     this.fb.api(this.nextPosts)
     .then(res => {
       console.log(res);
@@ -50,7 +50,7 @@ export class ContentComponent implements OnInit {
 
       if (res.paging.next && res.paging.next !== this.nextPosts) {
 
-        for (let i = 0; i < res.data.length; i++) {
+        for (let i=0; i<res.data.length; i++) {
           this.pagePosts.push(res.data[i]);
         }
         this.nextPosts = res.paging.next;
@@ -71,7 +71,7 @@ export class ContentComponent implements OnInit {
 
       this.fb.api('/me?fields=id,name,email')
       .then(res => {
-        console.log('res: ', res);
+        console.log('res: ',res);
         this.email = res.email;
       });
 

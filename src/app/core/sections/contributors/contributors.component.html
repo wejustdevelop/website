@@ -1,13 +1,8 @@
 <h1 class="header"><i class="fa fa-github" aria-hidden="true"></i> Contributors </h1>
 <div class="contributors">
-<<<<<<< HEAD
-    <div class="user rounded" *ngFor="let user of contributors; let i = index">
-      <img [src]="user.avatar_url">
-=======
 
     <div class="user" *ngFor="let user of contributors; let i = index">
       <!-- <img [src]="user.avatar_url"> -->
->>>>>>> d3aa1f9387b11e08ac12e391b658622b027e632f
       <div class="container">
         <a [href]="user.html_url" original-title="user.login" target="_blank">
           <img class="img-attr" [src]="user.avatar_url">
