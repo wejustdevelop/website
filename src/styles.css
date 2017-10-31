@@ -18,18 +18,22 @@ a, a:hover, a:focus {
     -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
 }
 
+nav a {
+  font-weight: 500;
+}
+
 h1, h2 {
 	margin-top: 10px;
 	font-size: 34px;
     font-weight: 100;
-    color: #555;
+    color: white;
     line-height: 48px;
 }
 
 h3 {
 	font-size: 20px;
     font-weight: 300;
-    color: #555;
+    color: white;
     line-height: 26px;
 }
 
@@ -191,7 +195,7 @@ button.btn {
     margin: 0;
     padding: 0 40px;
     vertical-align: middle;
-    background: #42c5ea;
+    background: #4f5a96;
     border: 0;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
