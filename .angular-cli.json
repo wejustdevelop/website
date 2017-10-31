@@ -27,10 +27,7 @@
         "../node_modules/jquery/dist/jquery.min.js",
         "../node_modules/popper.js/dist/umd/popper.min.js",
         "../node_modules/bootstrap/dist/js/bootstrap.min.js",
-        "../node_modules/jquery.easing/jquery.easing.min.js",
-        "resources/js/jquery.backstretch.min.js",
-        "resources/js/waypoints.min.js",
-        "resources/js/app.js"
+        "../node_modules/jquery.easing/jquery.easing.min.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {

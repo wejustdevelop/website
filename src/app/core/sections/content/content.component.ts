@@ -27,15 +27,13 @@ export class ContentComponent implements OnInit {
 
   ngOnInit() {
 
-    let initParams: InitParams = {
+    const initParams: InitParams = {
       appId: `${environment.appId}`,
       xfbml: true,
       version: 'v2.8'
     };
 
     this.fb.init(initParams);
-
-    
     this.getPost();
   }
 
@@ -50,26 +48,23 @@ export class ContentComponent implements OnInit {
       console.log(res);
       console.log(res.data.length);
 
-      if (res.paging.next && res.paging.next != this.nextPosts) {
+      if (res.paging.next && res.paging.next !== this.nextPosts) {
 
         for (let i=0; i<res.data.length; i++) {
           this.pagePosts.push(res.data[i]);
         }
-  
-  
         this.nextPosts = res.paging.next;
         console.log(this.nextPosts);
         console.log(this.pagePosts);
 
       }
-      
     })
     .catch( err => {
       console.log(err);
     });
   }
 
-  login(){
+  login() {
     this.fb.login(this.options)
     .then((response: LoginResponse) => {
       console.log('Logged in', response);
@@ -85,7 +80,7 @@ export class ContentComponent implements OnInit {
     .catch(e => console.error('Error logging in'));
   }
 
-  logout(){
+  logout() {
     this.fb.logout().then(() => console.log('Logged out!'));
   }
 }

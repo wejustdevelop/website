@@ -1,39 +1,40 @@
 .header {
     color: #fff;
-  }
-  .fa {
-    margin-left: 5px;
-  }
+}
+.fa {
+  margin-left: 5px;
+}
 
-  div.contributors {
-    margin-right: 2px;
-  }
+div.user {
+  float: left;
+  margin-bottom: -5px;
+}
 
-  div.user {
-    background-color: white;
-    padding: 3px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 5px;
-    display: inline-block;
-  }
+.img-attr{
+  width: 44px;
+  border-radius: 10px;
+  background-color: white;
+  margin: 0 2px;
+}
 
-  div.container {
-    text-align: center;
-    padding: 5px;
-  }
-  div.contributors {
-    max-width: 1200px;
-    margin: auto;
-  }
-  @media only screen and (min-width: 768px) {
-    /* For desktop: */
-    div.contributors .user {
-      width: 10%;
-    }
-  }
-  @media only screen and (max-width: 768px) {
-    /* For small device: */
-    div.contributors .user {
-      width: 20%
-    }
-  }
+div.container {
+  text-align: center;
+  padding: 5px;
+}
+div.contributors {
+  max-width: 1200px;
+  margin: auto;
+  display: inline-block;
+}
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  /* div.contributors .user {
+    width: 10%;
+  } */
+}
+@media only screen and (max-width: 768px) {
+  /* For small device: */
+  /* div.contributors .user {
+    width: 20%
+  } */
+}
