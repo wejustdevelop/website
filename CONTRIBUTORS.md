@@ -3,6 +3,12 @@
  - Place: Cebu, PH
  - Bio: Developing developers, paying it forward.
  - GitHub: [wejustdevelop](https://github.com/wejustdevelop)
+ 
+ 
+ [![RamelEmbate](https://github.com/RamelEmbate.png?size=40 "RamelEmbate")](https://github.com/RamelEmbate)
+ - Place: Cebu, PH
+ - Bio: Web developer
+ - GitHub: [RamelEmbate](https://github.com/RamelEmbate)
 
 
 [![Naldo](https://github.com/dpritos.png?size=40 "Naldo")](https://github.com/dpritos)
