@@ -6,6 +6,7 @@
 }
 
 div.user {
+  width: 54px;
   float: left;
   margin-bottom: -5px;
 }
@@ -15,6 +16,29 @@ div.user {
   border-radius: 10px;
   background-color: white;
   margin: 0 2px;
+}
+
+.pointing {
+  /* position: absolute; */
+  content: '';
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  background-image: none;
+  z-index: 2;
+  width: .6666em;
+  height: .6666em;
+  -webkit-transition: background .1s ease;
+  transition: background .1s ease;
+}
+
+.pointing.label {
+  background-color: #332e2e;
+  top: 2389.64px;
+  left: 63.5px;
+  visibility: visible;
+  display: block;
+  opacity: 1;
+  border-radius: 5px;
 }
 
 div.container {
