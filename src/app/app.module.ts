@@ -14,6 +14,10 @@ import { SidebarComponent } from './shared/sections/sidebar/sidebar.component';
 import { FooterComponent } from './shared/sections/footer/footer.component';
 import { ContentComponent } from './core/sections/content/content.component';
 import { ContributorsComponent } from './core/sections/contributors/contributors.component';
+import {AppRoutingModule} from './app.routes';
+import {ContactUsModule} from './contact-us/contact-us.module';
+import {UnderDevComponent} from './under-dev.component';
+import {NetworkComponent} from './network.component';
 
 @NgModule({
   declarations: [
@@ -23,14 +27,18 @@ import { ContributorsComponent } from './core/sections/contributors/contributors
     NavigationComponent,
     SidebarComponent,
     ContentComponent,
-    ContributorsComponent
+    ContributorsComponent,
+    UnderDevComponent,
+    NetworkComponent
   ],
   imports: [
     FormsModule,
     BrowserModule,
     FacebookModule.forRoot(),
     InfiniteScrollModule,
-    HttpClientModule
+    HttpClientModule,
+    ContactUsModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

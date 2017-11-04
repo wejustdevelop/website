@@ -4,6 +4,9 @@
 .fa {
   margin-left: 5px;
 }
+.sidebar {
+	padding-top: 80px;
+}
 .sidebar .repositories li {
   list-style: none;
 }

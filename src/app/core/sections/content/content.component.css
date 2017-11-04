@@ -5,3 +5,13 @@
     overflow-x: hidden;
     width: auto;
   }
+
+  body {
+    padding-top: 100px;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }

@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
+    "angular-linkedin-sdk": "^0.1.7",
     "bootstrap": "^4.0.0-beta",
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
@@ -31,6 +32,7 @@
     "ngx-infinite-scroll": "^0.6.1",
     "popper.js": "^1.12.5",
     "rxjs": "^5.4.2",
+    "waypoints": "^4.0.1",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {

@@ -1,11 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { NgFor } from '@angular/common';
 import {HttpClient} from '@angular/common/http';
 
 @Component({
   selector: 'app-contributors',
   templateUrl: './contributors.component.html',
-  styleUrls: ['./contributors.component.css']
+  styleUrls: ['./contributors.component.css'],
+  encapsulation: ViewEncapsulation.Emulated
 })
 export class ContributorsComponent implements OnInit {
 
@@ -14,8 +15,8 @@ export class ContributorsComponent implements OnInit {
   private contributors: any;
 
   constructor(private http: HttpClient  ) {
-    this.username = "wejustdevelop";
-    this.repo = "website";
+    this.username = 'wejustdevelop';
+    this.repo = 'website';
    }
 
   ngOnInit() {
