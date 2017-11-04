@@ -63,6 +63,11 @@
  - Place: Philippines
  - Bio: Coder. Trader. Handyman.
  - GitHub: [binondord](https://github.com/binoondord)
+ 
+  [![Baile Anthony Escabillas](https://github.com/escabillas95.png?size=40 "Baile Anthony Escabillas")](https://github.com/escabillas95)
+ - Place: Badian, Cebu Philippines 6032
+ - Bio: Web Developer, IT admin, Web Designer
+ - GitHub: [escabillas95](https://github.com/escabillas95)
 
  [![Amber Johnson](https://github.com/amberjohnsonsmile.png?size=40 "Amber Johnson")](https://github.com/amberjohnsonsmile)
  - Place: Fort Collins, CO, USA
