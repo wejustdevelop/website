@@ -6,7 +6,7 @@
  
  
  [![RamelEmbate](https://github.com/RamelEmbate.png?size=40 "RamelEmbate")](https://github.com/RamelEmbate)
- - Place: Cebu, PH
+ - Place: Philippines
  - Bio: Web developer
  - GitHub: [RamelEmbate](https://github.com/RamelEmbate)
 
