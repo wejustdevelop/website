@@ -2,16 +2,11 @@
 <div class="contributors">
 
     <div class="user" *ngFor="let user of contributors; let i = index">
-      <!-- <img [src]="user.avatar_url"> -->
+      <!-- <div class="pointing label">{{user.login}}</div> -->
       <div class="container">
         <a [href]="user.html_url" original-title="user.login" target="_blank">
           <img class="img-attr" [src]="user.avatar_url">
         </a>
       </div>
-
-      <!-- <a [href]="user.html_url" original-title="user.login" target="_blank">
-        <img class="img-attr" [src]="user.avatar_url">
-      </a> -->
     </div>
-
 </div>
