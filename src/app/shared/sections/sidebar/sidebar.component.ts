@@ -1,5 +1,4 @@
 import { Component, OnInit, ViewEncapsulation } from '@angular/core';
-import { NgFor } from '@angular/common';
 import {HttpClient} from '@angular/common/http';
 
 @Component({
