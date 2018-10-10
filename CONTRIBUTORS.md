@@ -15,6 +15,11 @@
  - Place: Cebu, PH
  - Bio: Developing developers, paying it forward.
  - GitHub: [dpritos](https://github.com/dpritos)
+ 
+ [![Rahul](https://github.com/mad-learner.png?size=40 "Rahul")](https://github.com/mad-learner)
+ - Place: India
+ - Bio: I am a mad learner.
+ - GitHub: [Rahul](https://github.com/mad-learner)
 
 
 [![Kavita](https://github.com/kavitaast.png?size=40 "Kavita")](https://github.com/kavitaast)
