@@ -21,6 +21,11 @@
  - Place: India
  - Bio:
  - GitHub: [kavita](https://github.com/kavitaast)
+ 
+ [![Vishal Bhardwaj](https://github.com/srdevelopervishal.png?size=40 "Vishal Bhardwaj")](https://github.com/srdevelopervishal)
+ - Place: India
+ - Bio: I love learning.
+ - GitHub: [Vishal Bhardwaj](https://github.com/srdevelopervishal)
 
 
  [![Michael Vinicio](https://github.com/vinird.png?size=40 "Michael Vinicio")](https://github.com/vinird)
