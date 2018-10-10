@@ -22,6 +22,10 @@
  - Bio:
  - GitHub: [kavita](https://github.com/kavitaast)
 
+[![Tushar](https://github.com/tusharkavya.png?size=40 "Tushar")](https://github.com/tusharkavya)
+ - Place: India
+ - Bio:
+ - GitHub: [Tushar](https://github.com/tusharkavya)
 
  [![Michael Vinicio](https://github.com/vinird.png?size=40 "Michael Vinicio")](https://github.com/vinird)
  - Place: Costa Rica
