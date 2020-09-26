@@ -23,7 +23,7 @@
 	content: " ";
 	width: 0%;
 	background-color: white;
-	height: 2px;
+	height: 5px;
 	left: 50%;
 	/*transform: translateX(-50%);*/
 	transition: all .5s;
