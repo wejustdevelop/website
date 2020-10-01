@@ -1,4 +1,6 @@
 
+
+This us a page which tell about people who contribute in thsi project
  [![We Just Develop](https://github.com/wejustdevelop.png?size=40 "WeJustDevelop")](https://github.com/wejustdevelop)
  - Place: Cebu, PH
  - Bio: Developing developers, paying it forward.
