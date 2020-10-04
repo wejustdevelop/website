@@ -4,6 +4,7 @@ import {NgModule} from '@angular/core';
 import {ContentComponent} from './core/sections/content/content.component';
 import {UnderDevComponent} from './under-dev.component';
 import {NetworkComponent} from './network.component';
+import {AboutUsComponent} from './about-us/about-us.component';
 
 const routes = [
   {path: '', redirectTo: '/home', pathMatch: 'full'},
@@ -18,6 +19,10 @@ const routes = [
   {
     path: 'network',
     component: NetworkComponent
+  },
+  {
+    path: 'about',
+    component: AboutUsComponent
   },
   {
     path: '**',
