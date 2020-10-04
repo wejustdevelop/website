@@ -18,6 +18,7 @@ import {AppRoutingModule} from './app.routes';
 import {ContactUsModule} from './contact-us/contact-us.module';
 import {UnderDevComponent} from './under-dev.component';
 import {NetworkComponent} from './network.component';
+import {AboutUsComponent} from './about-us/about-us.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import {NetworkComponent} from './network.component';
     ContentComponent,
     ContributorsComponent,
     UnderDevComponent,
-    NetworkComponent
+    NetworkComponent,
+    AboutUsComponent
   ],
   imports: [
     FormsModule,

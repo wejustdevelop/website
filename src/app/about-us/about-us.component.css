@@ -1,0 +1,26 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.about-us {
+    margin-top: 5em;
+}
+
+.about-us h1 {
+    font-size: 3em;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+.about-us h3 {
+    margin-bottom: 1em;
+    font-size: 1.3em;
+}
+
+.social {
+    margin-top: 5em;
+}
+
+.social a img {
+    width: 25%;
+}
